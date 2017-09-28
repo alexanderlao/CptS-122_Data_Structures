@@ -1,4 +1,4 @@
-CptS 122 - Data Structures
+CptS 122 - Data Structures C/C++
 ==============
 Instructor: Andy O'Fallon - Fall 2015
 --------------
